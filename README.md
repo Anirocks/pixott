@@ -3,8 +3,8 @@
 Pixott is a console based application similar to Netflix, Amazon Prime etc. The main difference is that the user interface is easy to use and understand. it is in prototype stage and the following project is only a concept model for the main application.
 
 # Technologies Used
-Java STS - version 4.1.4
-MySQL - version 8.0.22
+1. Java STS - version 4.1.4
+2. MySQL - version 8.0.22
 
 # Features
 1. Create a Watchlist of Movies
